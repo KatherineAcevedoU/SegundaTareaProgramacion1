@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\SegundaTareaProgramacion1\\EjercicioDeEmpleado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{271E7273-79AD-47E2-B57F-B43617D6B89D}|EjercicioDeEmpleado\\EjercicioDeEmpleado.csproj|C:\\Users\\Usuario\\Desktop\\SegundaTareaProgramacion1\\EjercicioDeEmpleado\\ejerciciodeempleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271E7273-79AD-47E2-B57F-B43617D6B89D}|EjercicioDeEmpleado\\EjercicioDeEmpleado.csproj|solutionrelative:ejerciciodeempleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271E7273-79AD-47E2-B57F-B43617D6B89D}|EjercicioDeEmpleado\\EjercicioDeEmpleado.csproj|c:\\users\\usuario\\desktop\\segundatareaprogramacion1\\ejerciciodeempleado\\ejerciciodeempleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271E7273-79AD-47E2-B57F-B43617D6B89D}|EjercicioDeEmpleado\\EjercicioDeEmpleado.csproj|solutionrelative:ejerciciodeempleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\SegundaTareaProgramacion1\\EjercicioDeEmpleado\\EjercicioDeEmpleado\\Empleado.cs",
+              "RelativeDocumentMoniker": "EjercicioDeEmpleado\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\SegundaTareaProgramacion1\\EjercicioDeEmpleado\\EjercicioDeEmpleado\\Empleado.cs",
+              "RelativeToolTip": "EjercicioDeEmpleado\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:53:53.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\SegundaTareaProgramacion1\\EjercicioDeEmpleado\\EjercicioDeEmpleado\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioDeEmpleado\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\SegundaTareaProgramacion1\\EjercicioDeEmpleado\\EjercicioDeEmpleado\\Program.cs",
+              "RelativeToolTip": "EjercicioDeEmpleado\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:09:46.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

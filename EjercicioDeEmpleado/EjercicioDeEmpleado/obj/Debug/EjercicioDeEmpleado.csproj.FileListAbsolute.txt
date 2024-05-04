@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\SegundaTareaProgramacion1\EjercicioDeEmpleado\EjercicioDeEmpleado\bin\Debug\EjercicioDeEmpleado.exe.config
+C:\Users\Usuario\Desktop\SegundaTareaProgramacion1\EjercicioDeEmpleado\EjercicioDeEmpleado\bin\Debug\EjercicioDeEmpleado.exe
+C:\Users\Usuario\Desktop\SegundaTareaProgramacion1\EjercicioDeEmpleado\EjercicioDeEmpleado\bin\Debug\EjercicioDeEmpleado.pdb
+C:\Users\Usuario\Desktop\SegundaTareaProgramacion1\EjercicioDeEmpleado\EjercicioDeEmpleado\obj\Debug\EjercicioDeEmpleado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SegundaTareaProgramacion1\EjercicioDeEmpleado\EjercicioDeEmpleado\obj\Debug\EjercicioDeEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SegundaTareaProgramacion1\EjercicioDeEmpleado\EjercicioDeEmpleado\obj\Debug\EjercicioDeEmpleado.exe
+C:\Users\Usuario\Desktop\SegundaTareaProgramacion1\EjercicioDeEmpleado\EjercicioDeEmpleado\obj\Debug\EjercicioDeEmpleado.pdb
