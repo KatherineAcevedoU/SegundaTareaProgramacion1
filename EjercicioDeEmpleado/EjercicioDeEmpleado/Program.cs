@@ -50,16 +50,27 @@ namespace EjercicioDeEmpleado
                 Console.WriteLine();
 
                 empleadoCambiarEstado.MostrarDatos();
-    
-
+                Console.WriteLine();
+   
             }
             else
             {
 
-
                 Console.WriteLine($"Empleado con numero {numeroEmpleadoCambiarEstado} no encontrado.");
 
             }
+
+            //Creamos una instancia de la clase, donde pasamos datos al metodo que esta en Empleado
+
+            Empleado mensajero1 = new Empleado();
+
+            Console.Write("Ingrese el numero del empleado que se le va aumentar el salario: ");
+            int numeroDeAumentoDeSalario = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine();
+
+            Console.WriteLine("------------------------------------------");
+            mensajero1.AumentarSalarioEmpleado(numeroDeAumentoDeSalario);
+            Console.WriteLine("------------------------------------------");
 
         }
 
@@ -82,5 +93,7 @@ namespace EjercicioDeEmpleado
             return null;
 
         }
+
+
     }
 }
